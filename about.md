@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Acerda de Telecomly
+title: Acerda de Data.ly
 ---
 
-## Telecomly
+## Data.ly
 
-Telecomly es un blog sencillo creado con Jekyll. Corresponde a un trabajo dentro de la clase de Comunicaciones II en la Universidad Bicentenaria de Aragua, por lo que su propósito principal es mostrar información sobre telecomunicaciones, específicamente, las ondas microondas.
+Data.ly es un blog sencillo creado con Jekyll. Corresponde a un trabajo dentro de la clase de transmisión de datos en la Universidad Bicentenaria de Aragua, por lo que su propósito principal es mostrar información sobre el núcleo temático IV, interconexión de redes.
 
-![*Imagen de antena*](/telecomly/img/blogImg1.jpg "Antena")
+![*Imagen de antena*](/data.ly/img/blogImg1.jpg "Antena")
 
 
 Se utilizó como base la plantilla de un tema creado por *Jacopo Rabolini* ([KingFelix](https://github.com/KingFelix)), para más detalles, pueden visitar el [repositorio original en Github](https://github.com/KingFelix/emerald/).
 
-También se puede visitar el [repositorio modificado por el autor](https://github.com/chillguire/telecomly).
+También se puede visitar el [repositorio modificado por el autor](https://github.com/chillguire/data.ly).
 
 
 ## Autores
