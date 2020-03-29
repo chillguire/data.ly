@@ -1,0 +1,35 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+//Import
+@import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+
+// Footer color changes
+
+.footer-link {
+  color: #fff;
+  margin: auto 25px;
+}
+.footer-link:hover {
+  color: #d18ca3;
+  -webkit-transition: all 0.4s ease-in;
+  -moz-transition: all 0.4s ease-in;
+  -o-transition: all 0.4s ease-in;
+  transition: all 0.4s ease-in;
+}
+
+.fa-github-alt:hover {
+  color: #333;
+  -webkit-transition: all 0.4s ease-in;
+  -moz-transition: all 0.4s ease-in;
+  -o-transition: all 0.4s ease-in;
+  transition: all 0.4s ease-in;
+}
+
+.footer-credit {
+  color: #fff;
+  font-weight: 500;
+  font-size: 1px;
+}
