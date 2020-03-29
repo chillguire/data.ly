@@ -5,7 +5,7 @@ author:
   name: "Ricardo Avendaño"
 
 # Build settings
-baseurl: /data.ly # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /data.ly/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
