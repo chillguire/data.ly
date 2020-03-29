@@ -11,3 +11,5 @@ De forma general, la tolerancia y resistencia a la presencia de obstáculos en u
 * Propagación por aire: Hace referencia a la propagación de ondas de radio reflejadas o refractadas por la ionósfera, una capa de la atmósfera cargada electricamente, de vuelta a la tierra. Funciona principalmente para ondas de baja frecuencia puesto que las frecuencias más altas son más fácilmente absorbidas por la atmósfera.
 
 * Propagación por dispersión tropósferica: Las ondas de alta frecuencia se dispersan aleatoriamente a medida que pasan por capas de la atmósfera hasta llegar a la troposfera, cuando parte de la energía de la onda de dispersa de nuevo hacia la tierra, donde una estación receptora capta la señal. La señal se transmite en un principio con un haz estrecho apuntado justo por encima del horizonte en la dirección de la estación receptora.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
