@@ -1,3 +1,4 @@
+console.log("Hecho por Ricardo E. Avendaño T.");
 var normal = document.getElementById("nav-menu");
 var reverse = document.getElementById("nav-menu-left");
 
