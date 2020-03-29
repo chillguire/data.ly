@@ -1,8 +1,8 @@
-# Telecomly
+# Data.ly
 
-This is a blog-project made for my communications II class. Doesn't really have anything special or techy in it, in fact, i just used a template and modified it a little. But in case you want to use it, feel free to grab and modify it as you please.
+This is a blog-project made for my data transmission class. Doesn't really have anything special or techy in it, in fact, i just used a template and modified it a little. But in case you want to use it, feel free to grab and modify it as you please.
 
-In the unlikely case that you wish to see the blog, here's the [live demo](https://chillguire.github.io/telecomly).
+In the unlikely case that you wish to see the blog, here's the [live demo](https://chillguire.github.io/data.ly).
 
 ## Authors
 
