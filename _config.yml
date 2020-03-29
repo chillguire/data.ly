@@ -1,11 +1,11 @@
 # Site settings
-title: Telecomly
+title: Data.ly
 description: "A telecommunications blog."
 author:
   name: "Ricardo Avendaño"
 
 # Build settings
-baseurl: /telecomly/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /data.ly/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
