@@ -1,5 +1,5 @@
 ---
-title: "Regulación de la radiación electromagnética"
+title: "Interferencia en ondas de radio y microondas"
 ---
 
 Uno de los problemas con la tecnología de red inalámbrica Wi-Fi es que al utilizar ondas de radiofrecuencia para establecer conexiones y transmitir datos, se ve afectada por las interferencias que amenazan la integridad de las señales enviadas en ondas. Tales interferencias pueden ser:
