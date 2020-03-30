@@ -1,5 +1,5 @@
 ---
-title: "Redes Ópticas"
+title: "Redes ópticas"
 ---
 
 Las redes ópticas nacen de la necesidad de tener una mayor disponibilidad de ancho de banda y velocidad de conexión en la red de redes: internet, con un crecimiento cada vez más acelerado de dispositivos conectados a la misma, consumiendo sus recursos. Diferentes factores limitan actualmente el avance de las propiedades de las redes; en mayor medida es debido a la limitada capacidad que existen en la actualidad de hacer los circuitos más pequeños con más transistores, lo que limita que la conmutación electrónica, y por ello, la velocidad de envío y recibimiento de paquetes.
