@@ -1,5 +1,5 @@
 ---
-title: "Interferencia en ondas de radio y microondas"
+title: "Interferencia y atenuación en ondas de radio y microondas"
 ---
 
 Uno de los problemas con la tecnología de red inalámbrica Wi-Fi es que al utilizar ondas de radiofrecuencia para establecer conexiones y transmitir datos, se ve afectada por las interferencias que amenazan la integridad de las señales enviadas en ondas. Tales interferencias pueden ser:
@@ -23,3 +23,9 @@ Si las frecuencias son iguales pero están desfasadas a 180º grados, es decir,
 ### Frecuencias iguales y fases con diferencia de distintas
 
 Cuando las frecuencias son iguales pero tienen fases distintas y no a 180º como en el caso anterior, se suman y le dan una forma irregular a la onda, superponiendo así la información que se transmitía, con el resultado de escuchar el sonido de dos radios superponerse, o dos voces de teléfono a la vez. Es raro que suceda puesto que normalmente se dan los últimos tres casos.
+
+## Atenuación en ondas
+
+Es la reducción de la fuerza y potencia de una onda. Normalmente es causado por la transmisión en grandes distancias que la onda no es capaz de cubrir de manera efectiva, también se puede dar por numerosos obstáculos en el camino de la onda. Causa perdidas de señal.
+
+![Atenuación](https://sites.google.com/site/1odemayocfgmtelecocm/_/rsrc/1472876351969/home/megafonia/2-acustica-arquitectonica/2-2-propagacion-del-sonido-en-un-espacio-libre/2-2-4-atenuacion-por-barreras-debido-a-la-presencia-de-obstaculos/atenuacion.png)
